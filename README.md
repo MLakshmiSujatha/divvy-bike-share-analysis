@@ -45,5 +45,3 @@ converting casual riders into long-term subscribers.
 ## Author
 M Lakshmi Sujatha
 
-3. Exploratory data analysis
-4. Comparison of usage patterns between rider
